@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @YASHOTKARSH
 - 👀 I’m interested in development
 - 🌱 I’m currently pursuing MCA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> businessyashotkarsh@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am come from non-tech background BSC in Mathematics.
 
 <!---
